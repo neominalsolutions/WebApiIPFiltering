@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiIPFiltering", "WebApiIPFiltering\WebApiIPFiltering.csproj", "{ED0E97E8-9C8E-4B1E-A933-7DAFCF5CF420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0E97E8-9C8E-4B1E-A933-7DAFCF5CF420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0E97E8-9C8E-4B1E-A933-7DAFCF5CF420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0E97E8-9C8E-4B1E-A933-7DAFCF5CF420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0E97E8-9C8E-4B1E-A933-7DAFCF5CF420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108779AA-E5F0-4E44-A3E6-FB441BFA57C2}
+	EndGlobalSection
+EndGlobal
